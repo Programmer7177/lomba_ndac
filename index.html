@@ -1372,7 +1372,19 @@
             }
           });
 
-          layer.bindTooltip(`<b>${p.canonical_name}</b><br>AHH: ${p.ahh} th · ER: ${p.er}%`, {
+          const residText = (p.resid >= 0 ? '+' : '') + Number(p.resid).toFixed(2) + ' th';
+          const gdpText = 'Rp ' + (p.gdp_percap / 1000).toFixed(1) + 'M';
+          layer.bindTooltip(`
+            <div style="font-family:var(--font-sans);min-width:140px;">
+              <b style="font-size:13px;color:var(--text);">${p.canonical_name}</b>
+              <div style="margin-top:4px;font-size:11px;line-height:1.5;">
+                <span style="color:var(--text-muted);">AHH:</span> <b style="color:var(--crimson);">${p.ahh} th</b><br>
+                <span style="color:var(--text-muted);">Tingkat Kerja:</span> <b style="color:var(--teal);">${p.er}%</b><br>
+                <span style="color:var(--text-muted);">PDRB/kapita:</span> <b>${gdpText}</b><br>
+                <span style="color:var(--text-muted);">Residual SDM:</span> <b>${residText}</b>
+              </div>
+            </div>
+          `, {
             sticky: true,
             className: 'custom-tooltip'
           });
