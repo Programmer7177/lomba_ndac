@@ -1,0 +1,563 @@
+[
+  {
+    "name": "Aceh",
+    "lng": 96.9181,
+    "lat": 3.697,
+    "ahh": 70.48,
+    "er": 94.25,
+    "gdp_percap": 43782.2,
+    "log_gdp": 10.687,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Sumatera Utara",
+      "Riau",
+      "Sumatera Barat",
+      "Jambi"
+    ]
+  },
+  {
+    "name": "Bali",
+    "lng": 115.1659,
+    "lat": -8.5388,
+    "ahh": 73.34,
+    "er": 98.21,
+    "gdp_percap": 67318.7,
+    "log_gdp": 11.117,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Jawa Timur",
+      "Nusa Tenggara Barat",
+      "Di Yogyakarta",
+      "Jawa Tengah"
+    ]
+  },
+  {
+    "name": "Banten",
+    "lng": 105.9765,
+    "lat": -6.4434,
+    "ahh": 71.06,
+    "er": 93.32,
+    "gdp_percap": 70275.8,
+    "log_gdp": 11.16,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Dki Jakarta",
+      "Jawa Barat",
+      "Lampung",
+      "Sumatera Selatan"
+    ]
+  },
+  {
+    "name": "Bengkulu",
+    "lng": 102.4883,
+    "lat": -3.8625,
+    "ahh": 70.18,
+    "er": 96.89,
+    "gdp_percap": 49233.1,
+    "log_gdp": 10.804,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Sumatera Selatan",
+      "Jambi",
+      "Lampung",
+      "Sumatera Barat"
+    ]
+  },
+  {
+    "name": "Di Yogyakarta",
+    "lng": 110.4122,
+    "lat": -7.8337,
+    "ahh": 75.53,
+    "er": 96.52,
+    "gdp_percap": 51473.4,
+    "log_gdp": 10.849,
+    "prod": 0.0,
+    "resid": 3.38,
+    "neighbors": [
+      "Jawa Tengah",
+      "Jawa Timur",
+      "Jawa Barat",
+      "Dki Jakarta"
+    ]
+  },
+  {
+    "name": "Dki Jakarta",
+    "lng": 106.8008,
+    "lat": -6.1848,
+    "ahh": 74.18,
+    "er": 93.79,
+    "gdp_percap": 344349.8,
+    "log_gdp": 12.749,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Banten",
+      "Jawa Barat",
+      "Lampung",
+      "Jawa Tengah"
+    ]
+  },
+  {
+    "name": "Gorontalo",
+    "lng": 122.3534,
+    "lat": 0.6842,
+    "ahh": 69.14,
+    "er": 96.87,
+    "gdp_percap": 44432.9,
+    "log_gdp": 10.702,
+    "prod": 0.01,
+    "resid": 0.0,
+    "neighbors": [
+      "Sulawesi Tengah",
+      "Sulawesi Utara",
+      "Sulawesi Barat",
+      "Maluku Utara"
+    ]
+  },
+  {
+    "name": "Jambi",
+    "lng": 102.6152,
+    "lat": -1.7566,
+    "ahh": 72.09,
+    "er": 95.52,
+    "gdp_percap": 86721.5,
+    "log_gdp": 11.37,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Sumatera Selatan",
+      "Bengkulu",
+      "Sumatera Barat",
+      "Riau"
+    ]
+  },
+  {
+    "name": "Jawa Barat",
+    "lng": 107.6353,
+    "lat": -6.8329,
+    "ahh": 74.41,
+    "er": 93.25,
+    "gdp_percap": 56079.6,
+    "log_gdp": 10.935,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Dki Jakarta",
+      "Banten",
+      "Jawa Tengah",
+      "Di Yogyakarta"
+    ]
+  },
+  {
+    "name": "Jawa Tengah",
+    "lng": 110.1853,
+    "lat": -7.3349,
+    "ahh": 75.1,
+    "er": 95.22,
+    "gdp_percap": 47972.2,
+    "log_gdp": 10.778,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Di Yogyakarta",
+      "Jawa Barat",
+      "Jawa Timur",
+      "Dki Jakarta"
+    ]
+  },
+  {
+    "name": "Jawa Timur",
+    "lng": 113.2198,
+    "lat": -7.4514,
+    "ahh": 72.4,
+    "er": 95.81,
+    "gdp_percap": 75770.3,
+    "log_gdp": 11.235,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Bali",
+      "Di Yogyakarta",
+      "Jawa Tengah",
+      "Nusa Tenggara Barat"
+    ]
+  },
+  {
+    "name": "Kalimantan Barat",
+    "lng": 110.5146,
+    "lat": -0.2713,
+    "ahh": 71.6,
+    "er": 95.14,
+    "gdp_percap": 52702.7,
+    "log_gdp": 10.872,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Kalimantan Tengah",
+      "Kepulauan Bangka Belitung",
+      "Kepulauan Riau",
+      "Kalimantan Selatan"
+    ]
+  },
+  {
+    "name": "Kalimantan Selatan",
+    "lng": 115.7852,
+    "lat": -2.867,
+    "ahh": 69.69,
+    "er": 95.8,
+    "gdp_percap": 67117.3,
+    "log_gdp": 11.114,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Kalimantan Tengah",
+      "Kalimantan Timur",
+      "Sulawesi Barat",
+      "Sulawesi Selatan"
+    ]
+  },
+  {
+    "name": "Kalimantan Tengah",
+    "lng": 113.4305,
+    "lat": -1.484,
+    "ahh": 70.47,
+    "er": 95.99,
+    "gdp_percap": 79319.7,
+    "log_gdp": 11.281,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Kalimantan Selatan",
+      "Kalimantan Barat",
+      "Kalimantan Timur",
+      "Sulawesi Barat"
+    ]
+  },
+  {
+    "name": "Kalimantan Timur",
+    "lng": 116.5324,
+    "lat": 0.3421,
+    "ahh": 75.06,
+    "er": 94.86,
+    "gdp_percap": 212175.2,
+    "log_gdp": 12.265,
+    "prod": 0.0,
+    "resid": 3.03,
+    "neighbors": [
+      "Kalimantan Selatan",
+      "Kalimantan Tengah",
+      "Sulawesi Barat",
+      "Sulawesi Tengah"
+    ]
+  },
+  {
+    "name": "Kepulauan Bangka Belitung",
+    "lng": 106.6661,
+    "lat": -2.5584,
+    "ahh": 71.53,
+    "er": 95.37,
+    "gdp_percap": 70194.4,
+    "log_gdp": 11.159,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Sumatera Selatan",
+      "Lampung",
+      "Dki Jakarta",
+      "Banten"
+    ]
+  },
+  {
+    "name": "Kepulauan Riau",
+    "lng": 105.1424,
+    "lat": 1.2631,
+    "ahh": 71.28,
+    "er": 93.61,
+    "gdp_percap": 161424.3,
+    "log_gdp": 11.992,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Riau",
+      "Jambi",
+      "Kepulauan Bangka Belitung",
+      "Sumatera Selatan"
+    ]
+  },
+  {
+    "name": "Lampung",
+    "lng": 104.8372,
+    "lat": -4.9585,
+    "ahh": 71.55,
+    "er": 95.81,
+    "gdp_percap": 51369.9,
+    "log_gdp": 10.847,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Banten",
+      "Sumatera Selatan",
+      "Dki Jakarta",
+      "Bengkulu"
+    ]
+  },
+  {
+    "name": "Maluku",
+    "lng": 131.1325,
+    "lat": -5.7188,
+    "ahh": 67.0,
+    "er": 93.89,
+    "gdp_percap": 32198.1,
+    "log_gdp": 10.38,
+    "prod": 0.01,
+    "resid": -2.1,
+    "neighbors": [
+      "Papua Barat",
+      "Maluku Utara",
+      "Papua",
+      "Sulawesi Tenggara"
+    ]
+  },
+  {
+    "name": "Maluku Utara",
+    "lng": 127.2424,
+    "lat": -0.3047,
+    "ahh": 69.32,
+    "er": 95.97,
+    "gdp_percap": 70659.6,
+    "log_gdp": 11.166,
+    "prod": 0.02,
+    "resid": 0.0,
+    "neighbors": [
+      "Sulawesi Utara",
+      "Gorontalo",
+      "Sulawesi Tengah",
+      "Sulawesi Tenggara"
+    ]
+  },
+  {
+    "name": "Nusa Tenggara Barat",
+    "lng": 117.6661,
+    "lat": -8.5705,
+    "ahh": 67.78,
+    "er": 97.27,
+    "gdp_percap": 32282.1,
+    "log_gdp": 10.382,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Bali",
+      "Jawa Timur",
+      "Nusa Tenggara Timur",
+      "Sulawesi Selatan"
+    ]
+  },
+  {
+    "name": "Nusa Tenggara Timur",
+    "lng": 122.4593,
+    "lat": -9.1226,
+    "ahh": 68.03,
+    "er": 96.98,
+    "gdp_percap": 24271.8,
+    "log_gdp": 10.097,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Sulawesi Tenggara",
+      "Nusa Tenggara Barat",
+      "Sulawesi Selatan",
+      "Bali"
+    ]
+  },
+  {
+    "name": "Papua",
+    "lng": 137.7416,
+    "lat": -2.5313,
+    "ahh": 68.78,
+    "er": 93.52,
+    "gdp_percap": 81009.1,
+    "log_gdp": 11.302,
+    "prod": 0.01,
+    "resid": 0.0,
+    "neighbors": [
+      "Papua Barat",
+      "Maluku",
+      "Maluku Utara",
+      "Sulawesi Utara"
+    ]
+  },
+  {
+    "name": "Papua Barat",
+    "lng": 133.777,
+    "lat": -2.8117,
+    "ahh": 67.1,
+    "er": 95.87,
+    "gdp_percap": 131636.4,
+    "log_gdp": 11.788,
+    "prod": 0.07,
+    "resid": -3.8,
+    "neighbors": [
+      "Maluku",
+      "Papua",
+      "Maluku Utara",
+      "Sulawesi Utara"
+    ]
+  },
+  {
+    "name": "Riau",
+    "lng": 101.977,
+    "lat": 0.8753,
+    "ahh": 72.57,
+    "er": 96.3,
+    "gdp_percap": 165349.7,
+    "log_gdp": 12.016,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Jambi",
+      "Sumatera Barat",
+      "Kepulauan Riau",
+      "Sumatera Utara"
+    ]
+  },
+  {
+    "name": "Sulawesi Barat",
+    "lng": 119.3429,
+    "lat": -2.3386,
+    "ahh": 66.32,
+    "er": 97.32,
+    "gdp_percap": 42717.9,
+    "log_gdp": 10.662,
+    "prod": 0.01,
+    "resid": -3.24,
+    "neighbors": [
+      "Sulawesi Selatan",
+      "Sulawesi Tengah",
+      "Kalimantan Selatan",
+      "Kalimantan Timur"
+    ]
+  },
+  {
+    "name": "Sulawesi Selatan",
+    "lng": 120.3938,
+    "lat": -4.5083,
+    "ahh": 71.48,
+    "er": 95.81,
+    "gdp_percap": 73573.3,
+    "log_gdp": 11.206,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Sulawesi Tenggara",
+      "Sulawesi Barat",
+      "Sulawesi Tengah",
+      "Nusa Tenggara Barat"
+    ]
+  },
+  {
+    "name": "Sulawesi Tengah",
+    "lng": 121.5551,
+    "lat": -0.8968,
+    "ahh": 69.47,
+    "er": 97.06,
+    "gdp_percap": 120749.6,
+    "log_gdp": 11.701,
+    "prod": 0.01,
+    "resid": 0.0,
+    "neighbors": [
+      "Gorontalo",
+      "Sulawesi Barat",
+      "Sulawesi Selatan",
+      "Sulawesi Tenggara"
+    ]
+  },
+  {
+    "name": "Sulawesi Tenggara",
+    "lng": 122.5094,
+    "lat": -4.6314,
+    "ahh": 71.65,
+    "er": 96.91,
+    "gdp_percap": 67839.9,
+    "log_gdp": 11.125,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Sulawesi Selatan",
+      "Sulawesi Tengah",
+      "Sulawesi Barat",
+      "Nusa Tenggara Timur"
+    ]
+  },
+  {
+    "name": "Sulawesi Utara",
+    "lng": 125.2899,
+    "lat": 2.4203,
+    "ahh": 72.75,
+    "er": 94.15,
+    "gdp_percap": 69352.2,
+    "log_gdp": 11.147,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Maluku Utara",
+      "Gorontalo",
+      "Sulawesi Tengah",
+      "Sulawesi Tenggara"
+    ]
+  },
+  {
+    "name": "Sumatera Barat",
+    "lng": 100.202,
+    "lat": -1.2021,
+    "ahh": 70.38,
+    "er": 94.25,
+    "gdp_percap": 57047.2,
+    "log_gdp": 10.952,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Jambi",
+      "Riau",
+      "Sumatera Utara",
+      "Bengkulu"
+    ]
+  },
+  {
+    "name": "Sumatera Selatan",
+    "lng": 104.0948,
+    "lat": -3.0476,
+    "ahh": 70.97,
+    "er": 96.14,
+    "gdp_percap": 75131.7,
+    "log_gdp": 11.227,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Bengkulu",
+      "Jambi",
+      "Lampung",
+      "Kepulauan Bangka Belitung"
+    ]
+  },
+  {
+    "name": "Sumatera Utara",
+    "lng": 98.7261,
+    "lat": 1.6233,
+    "ahh": 70.33,
+    "er": 94.4,
+    "gdp_percap": 73574.6,
+    "log_gdp": 11.206,
+    "prod": 0.0,
+    "resid": 0.0,
+    "neighbors": [
+      "Aceh",
+      "Sumatera Barat",
+      "Riau",
+      "Jambi"
+    ]
+  }
+]
